@@ -31,7 +31,7 @@ To launch the code `run.py` in the folder `Numerical_model` use the following co
 * `fluxes/population.py`: Contains the definition of the class Population
 * `fluxes/totalpop.py`: Contains the definition of the class Totalpop
 
-The `data` folder is also needed to store the data from the UN database. The following CSV files are used : `fertility_indicators.csv`, `life_table.csv`, `period_indicators.csv`, `population_by_age.csv`, `total_population.csv`. The list of all indicators contained in these files and their definition can be found [here](https://population.un.org/wpp/Download/Standard/Population/).
+The `data` folder is also needed to store the data from the UN database. The following CSV files are used : `fertility_indicators.csv`, `life_table.csv`, `period_indicators.csv`, `population_by_age.csv`, `total_population.csv`. The list of all indicators contained in these files and their definition can be found [here](https://population.un.org/wpp/Download/Standard/Population/). Unfortunately, the folder `data` couldn't be uploaded on Github due to its size.
 
 
 ### Additional content
