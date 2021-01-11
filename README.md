@@ -57,4 +57,4 @@ Aubet Louise, louise.aubet@epfl.ch
 
 ### Project Status
 
-The project was submitted on the 1st of June 2020, as a semester project.
+The project was submitted on the 1st of June 2020, as a semester project at EPFL.
